@@ -1,0 +1,75 @@
+/* Slider */
+.carousel-caption {
+  top: 50%;
+  bottom: initial !important;
+}
+.carousel-caption h5 {
+  counter-reset: #fff;
+  font-size: 42px;
+}
+.fas.fa-hand-point-up {
+  color: blueviolet;
+}
+.fas.fa-book-reader {
+  color: hsl(0, 92%, 59%);
+}
+/* application deadline start */
+.applicaiton-deadline-row {
+  position: relative;
+}
+.application-deadline-header {
+  position: absolute;
+  z-index: 100;
+  right: 42%;
+}
+.application-deadline-img {
+  width: 100%;
+}
+.application-deadline-front {
+  font-size: small;
+}
+/* application deadline end */
+/* Application details start */
+.admission-details {
+  width: 80%;
+  margin: 0 auto;
+}
+.fas.fa-cloud-download-alt {
+  color: gray;
+  font-size: 50px;
+}
+.fas.fa-cloud-download-alt.icon-size {
+  color: orange;
+  font-size: 50px;
+}
+.far.fa-copy {
+  font-size: 50px;
+}
+.notices {
+  box-shadow: 1px 1px 2px 1px black;
+  word-wrap: normal;
+}
+.notice-border {
+  border-left: 1px solid black;
+}
+.notice-text {
+  font-size: small;
+}
+.admission-details-padding {
+  padding-top: 80px;
+}
+/* Application Details end */
+/* Application guidline start */
+.application-guidline-section {
+  box-shadow: 5px 5px 5px 5px rgb(238, 200, 200);
+}
+.application-guidline-text {
+  font-size: small;
+}
+.guidline-font-size {
+  font-size: 10px;
+}
+.guidline-icons {
+  font-size: 40px;
+}
+/* Application guidline End */
